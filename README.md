@@ -4,9 +4,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dwip%20Rebhe&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CSE%20%40%20JIT%20Nagpur%20%7C%20CGPA%209.4&descAlignY=58&descSize=16)
 
-![Profile Views](https://komarev.com/ghpvc/?username=dwiprebhe18&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/dwiprebhe18?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1a2e)](https://github.com/dwiprebhe18)
-[![GitHub stars](https://img.shields.io/github/stars/dwiprebhe18?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=1a1a2e)](https://github.com/dwiprebhe18)
 
 </div>
 
